@@ -1,6 +1,6 @@
-#  TWRP Device Tree for Poco X5 5G (moonstone)
+#  TWRP Device Tree for OnePlus Nord Ce 2 Lite 5G /Realme 9 Pro (oscar)
 
-The Poco X5 5G (codenamed "moonstone") is a High-range smartphone from Xiaomi. It was announced released in 2023, February 07.
+The OnePlus Nord Ce 2 Lite 5G /Realme 9 Pro (codenamed "oscar") is a High-range smartphone from OnePlus. It was announced released in 2022, April 28.
 
 ## Device specifications
 
@@ -10,13 +10,13 @@ The Poco X5 5G (codenamed "moonstone") is a High-range smartphone from Xiaomi. I
 | CPU                     | Octa-core (2x2.2 GHz Kryo 660 Gold & 6x1.7 GHz Kryo 660 Silver)                |
 | GPU                     | Adreno 619                                                                     |
 | Memory                  | 8 GB                                                                           |
-| Shipped Android Version | 12.0 (MIUI 13)                                                                 |
+| Shipped Android Version | 14.0 (oxygen os 14 )                                                           |
 | Storage                 | 256 GB eMMC                                                                    |
 | SIM                     | Dual SIM (Nano-SIM, dual stand-by)                                             |
 | Battery                 | Li-Po 5000 mAh, non-removable                                                  |
 | Dimensions              | 165.9 x 76.2 x 8 mm (6.53 x 3.00 x 0.31 in)                                    |
 | Display                 | Contrast ratio: Infinite (nominal)                                             |
-| Rear Camera 1           | 48 MP, f/1.8, (wide), PDAF                                                     |
+| Rear Camera 1           | 64 MP, f/1.8, (wide), PDAF                                                     |
 | Rear Camera 2           | 8 MP, f/2.2, 118˚ (ultrawide), 1/4", 1.12µm                                    |
 | Rear Camera 3           | 2 MP, f/2.4, (macro)                                                           |
 | Front Camera            | 13 MP, f/2.5, (wide)                                                           |
