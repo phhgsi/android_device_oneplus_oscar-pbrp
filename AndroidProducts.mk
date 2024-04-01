@@ -15,4 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_moonstone.mk
+    $(LOCAL_DIR)/omni_oscar.mk
+
+COMMON_LUNCH_CHOICES := \
+    omni_oscar-user \
+    omni_oscar-userdebug \
+    omni_oscar-eng
