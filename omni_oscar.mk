@@ -14,20 +14,20 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/xiaomi/moonstone
+DEVICE_PATH := device/oneplus/oscar
 
 # Inherit from device.mk configuration
 $(call inherit-product, $(DEVICE_PATH)/device.mk)
 
 # Release name
-PRODUCT_RELEASE_NAME := moonstone
+PRODUCT_RELEASE_NAME := oscar
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := moonstone
-PRODUCT_NAME := omni_moonstone
-PRODUCT_BRAND := POCO
-PRODUCT_MODEL := POCO X5
-PRODUCT_MANUFACTURER := Xiaomi
+PRODUCT_DEVICE := oscar
+PRODUCT_NAME := omni_oscar
+PRODUCT_BRAND := OnePlus 
+PRODUCT_MODEL := OnePlus Nord CE 2 lite 5G 
+PRODUCT_MANUFACTURER := oneplus
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := moonstone,sunstone
+TARGET_OTA_ASSERT_DEVICE := oscar
