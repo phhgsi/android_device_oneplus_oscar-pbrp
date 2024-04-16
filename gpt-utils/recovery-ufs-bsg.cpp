@@ -34,10 +34,6 @@
 
 #ifndef _BSG_FRAMEWORK_KERNEL_HEADERS
 #ifndef _GENERIC_KERNEL_HEADERS
-#include <scsi/ufs/ioctl.h>
-#include <scsi/ufs/ufs.h>
-#endif
-#endif
 
 //Size of the buffer that needs to be passed to the UFS ioctl
 #define UFS_ATTR_DATA_SIZE          32
